@@ -2,16 +2,12 @@
 
 EnOS™ provides device SDKs that encapsulates protocols for data transmission between devices and EnOS Cloud.
 
-For MQTT-based transmission, we support:
+We provide SDKs for the following mainstream programing languages:
 
-- [EnOS Device SDK for MQTT (C)](https://github.com/EnvisionIot/enos-mqtt-sdk-c)
-- [EnOS Device SDK for MQTT (Java)](https://github.com/EnvisionIot/enos-mqtt-sdk-java)
-- [EnOS Device SDK for MQTT (Node.js)](https://github.com/EnvisionIot/enos-mqtt-sdk-nodejs)
-- [EnOS Device SDK for MQTT (Python)](https://github.com/EnvisionIot/enos-mqtt-sdk-python)
-
-For HTTP-based transmission, we support:
-
-- [EnOS Device SDK for HTTP (Java)](https://github.com/EnvisionIot/enos-http-sdk-java)
+- [EnOS Device SDK for C](https://github.com/EnvisionIot/enos-device-sdk-c)
+- [EnOS Device SDK for Java](https://github.com/EnvisionIot/enos-device-sdk-java)
+- [EnOS Device SDK for Node.js](https://github.com/EnvisionIot/enos-device-sdk-nodejs)
+- [EnOS Device SDK for Python](https://github.com/EnvisionIot/enos-device-sdk-python)
 
 For information on how to obtain and use the device SDK for your programing language, see the README file of their GitHub source code repo.
 
