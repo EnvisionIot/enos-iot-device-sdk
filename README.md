@@ -4,10 +4,14 @@ EnOS™ provides device SDKs that encapsulates protocols for data transmission b
 
 For MQTT-based transmission, we support:
 
-- [EnOS Device SDK for C](https://github.com/EnvisionIot/enos-mqtt-sdk-c)
-- [EnOS Device SDK for Java](https://github.com/EnvisionIot/enos-mqtt-sdk-java)
-- [EnOS Device SDK for Node.js](https://github.com/EnvisionIot/enos-mqtt-sdk-nodejs)
-- [EnOS Device SDK for Python](https://github.com/EnvisionIot/enos-mqtt-sdk-python)
+- [EnOS Device SDK for MQTT (C)](https://github.com/EnvisionIot/enos-mqtt-sdk-c)
+- [EnOS Device SDK for MQTT (Java)](https://github.com/EnvisionIot/enos-mqtt-sdk-java)
+- [EnOS Device SDK for MQTT (Node.js)](https://github.com/EnvisionIot/enos-mqtt-sdk-nodejs)
+- [EnOS Device SDK for MQTT (Python)](https://github.com/EnvisionIot/enos-mqtt-sdk-python)
+
+For HTTP-based transmission, we support:
+
+- [EnOS Device SDK for HTTP (Java)](https://github.com/EnvisionIot/enos-http-sdk-java)
 
 For information on how to obtain and use the device SDK for your programing language, see the README file of their GitHub source code repo.
 
@@ -41,7 +45,9 @@ The following table shows an overview of which functions are available in differ
 |                                | Connection state reporting           | √        | √           | √     | √          |
 |                                | Asynchronous data reporting          | √        | √           | √     | √          |
 
-### supplementary Information
+### Supplementary Information
+
+The following information supplements the above table to provide details about relevant fucntions of the SDKs.
 
 \*1 For HTTP protocol, we currently support reporting file type of data through
 measuring point.
