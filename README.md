@@ -32,9 +32,9 @@ The following table shows an overview of which functions are available in differ
 | Issuing command to device (cloud to device) | Setting measuring point values | √        | √           | √     | √          |
 |                                             | Invoking services              | √        | √           | √     | √          |
 |                                             | Receiving data in pass-through mode | √        | √           | √     | √          |
-| Subdevice Management  | Subdevice registeration | √        | √           |       | √          |
-|                       | Login and logout of subdevices | √        | √           |       | √          |
-|                       | Subdevice lifecycle management | √        | √           |       | √          |
+| Subdevice Management  | Subdevice registeration | √        | √           | √     | √          |
+|                       | Login and logout of subdevices | √        | √           | √     | √          |
+|                       | Subdevice lifecycle management | √        | √           | √     | √          |
 | Firmware Upgrade OTA           | Uploading and receiving firmware information  | √        |             |       | √          |
 | Message Integration            |                                      | √        |             |       | √          |
 | Feature availability           | Auto Re-connection                   | √        | √           | √     | √          |
